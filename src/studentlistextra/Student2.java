@@ -2,7 +2,7 @@
 package studentlistextra;
 
 /**
- *
+ *date: 2022-02-03
  * @author Qiong Liao
  */
 public class Student2 {
